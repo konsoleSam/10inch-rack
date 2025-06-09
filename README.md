@@ -10,3 +10,6 @@ Attribution to: https://www.printables.com/@Mauker
 
 Rails: https://www.amazon.com/dp/B09RFYSMX6?ref=ppx_yo2ov_dt_b_fed_asin_title
 6U Cabinet Vertical Rack Rail Kit, Black, Cold Rolled Steel, 13.33 x 0.77 x 1.16 inch, Package Quantity of 4 NavePoint
+
+
+Keystone blank: https://www.printables.com/model/557655-keystone-blank
